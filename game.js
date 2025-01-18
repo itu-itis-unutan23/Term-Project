@@ -1,6 +1,7 @@
 const word = ['N', 'M', 'Y', 'P', 'H'];
 let score = 0;
 let lives = 3;
+let gameOver = false;  // Oyun bittiğinde kontrol edilen değişken
 
 const scoreElement = document.getElementById('score');
 const livesElement = document.getElementById('lives');
@@ -12,6 +13,7 @@ const cards = document.querySelectorAll('.card');
 function initializeGame() {
     score = 0;
     lives = 3;
+    gameOver = false;  // Oyun başlatıldığında yeniden false yapıyoruz
     scoreElement.textContent = score;
     livesElement.innerHTML = '<img src="heart.svg" alt="Heart" class="heart">'.repeat(lives);
     guessInput.value = '';
@@ -22,6 +24,8 @@ function initializeGame() {
 }
 
 function checkGuess() {
+    if (gameOver) return;  // Oyun bitti ise daha fazla işlem yapma
+
     const guess = guessInput.value.toUpperCase();
     guessInput.value = '';
 
@@ -66,12 +70,14 @@ function loseLife(livesLost) {
 function winGame() {
     score = 100; 
     scoreElement.textContent = score;
+    gameOver = true;  // Oyun kazandı, artık harf girilemez
     setTimeout(() => {
         alert('Congratulations! You guessed the word correctly!');
     }, 100); 
 }
 
 function loseGame() {
+    gameOver = true;  // Oyun kaybedildi, artık harf girilemez
     setTimeout(() => {
         alert('Game Over! You lost all your lives.');
     }, 100); 
