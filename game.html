@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Prediction Game</title>
+    <link rel="stylesheet" href="game.css">
+</head>
+<body>
+    <div class="game-container">
+        <h1>Word Prediction Game</h1>
+        <div class="score-lives">
+            <p>Score: <span id="score">0</span></p>
+            <p>Lives: <span id="lives"><img src="heart.svg" alt="Heart" class="heart"><img src="heart.svg" alt="Heart" class="heart"><img src="heart.svg" alt="Heart" class="heart"></span></p>
+        </div>
+        <div class="game-board">
+            <div class="card" data-letter="N"><img src="soru.svg" alt="Hidden"></div>
+            <div class="card" data-letter="M"><img src="soru.svg" alt="Hidden"></div>
+            <div class="card" data-letter="Y"><img src="soru.svg" alt="Hidden"></div>
+            <div class="card" data-letter="P"><img src="soru.svg" alt="Hidden"></div>
+            <div class="card" data-letter="H"><img src="soru.svg" alt="Hidden"></div>
+        </div>
+        <div class="input-container">
+            <input type="text" id="guess" placeholder="Enter your guess">
+            <button id="submit-btn">Submit</button>
+        </div>
+        <button id="reset-btn">Reset The Game</button>
+    </div>
+    <script src="game.js"></script>
+</body>
+</html>

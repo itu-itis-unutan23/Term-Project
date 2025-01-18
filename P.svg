@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="P.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#eee7d8"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.97548401"
+     inkscape:cx="397.75127"
+     inkscape:cy="233.21756"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="170.17193"
+       y="24.603171"
+       width="215.27775"
+       height="193.74997"
+       id="rect3" />
+  </defs>
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Rockwell;-inkscape-font-specification:Rockwell;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:4.60342;display:inline;fill:#2b0000;stroke-width:0.264583"
+       x="49.906849"
+       y="41.769863"
+       id="text1" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#2b0000" />
+    <path
+       d="m 51.290848,62.582924 h -9.443589 l 9.59994,-45.842062 h 18.637019 q 4.971956,0 7.848811,1.188266 2.908125,1.156996 4.596714,3.877501 1.688589,2.689234 1.688589,6.441654 0,3.470988 -1.344617,6.754355 -1.344617,3.283368 -3.314637,5.253388 -1.938751,1.97002 -4.190203,3.001936 -2.251451,1.000645 -6.066412,1.532238 -2.220181,0.312702 -8.317863,0.312702 h -6.035142 z m 5.222118,-25.078672 h 2.908125 q 7.47357,0 9.975183,-0.938105 2.501613,-0.938105 3.940041,-3.001936 1.438427,-2.063831 1.438427,-4.534174 0,-1.657319 -0.750484,-2.720505 -0.719213,-1.063185 -2.063831,-1.532238 -1.313346,-0.500322 -5.910061,-0.500322 h -6.754355 z"
+       id="text5"
+       style="font-style:italic;font-weight:bold;font-size:64.0413px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Italic';fill:#00002b;stroke-width:0.333548"
+       transform="scale(0.79323787,1.2606559)"
+       aria-label="P" />
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="soru.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#eee7d8"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.97548401"
+     inkscape:cx="398.7764"
+     inkscape:cy="151.20699"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="170.17193"
+       y="24.603171"
+       width="215.27775"
+       height="193.74997"
+       id="rect3" />
+  </defs>
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Rockwell;-inkscape-font-specification:Rockwell;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:4.60342;display:inline;fill:#2b0000;stroke-width:0.264583"
+       x="49.906849"
+       y="41.769863"
+       id="text1" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#2b0000" />
+    <path
+       d="m 47.989936,64.709402 h -8.78977 q 0.681377,-5.193835 2.827714,-8.992309 2.18041,-3.837235 8.687565,-10.232627 5.485088,-5.465152 6.439018,-7.20935 0.987997,-1.744198 0.987997,-3.372116 0,-2.403116 -1.669374,-3.992274 -1.669376,-1.627919 -5.11033,-1.627919 -3.815716,0 -6.234606,2.364357 -2.41889,2.364357 -3.440957,7.558191 L 32.72708,37.422398 q 1.737512,-7.558192 6.71157,-11.938066 4.974052,-4.379874 12.094447,-4.379874 7.427016,0 11.583426,4.224834 4.156397,4.186076 4.156397,10.038827 0,3.410875 -1.77158,6.821752 -1.771582,3.372116 -9.709634,10.852786 -4.974054,4.728714 -6.132398,6.589191 -1.158338,1.860477 -1.669372,5.077554 z m -9.811838,3.449634 h 9.675561 l -1.975993,10.736506 h -9.67556 z"
+       id="text2"
+       style="font-style:italic;font-weight:bold;font-size:44.9028px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Italic';fill:#00002b;stroke-width:0.775226"
+       aria-label="?" />
+  </g>
+</svg>
